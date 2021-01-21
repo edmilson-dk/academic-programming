@@ -10,11 +10,12 @@ As I have studied several academic contents in programming, and in these studies
 
 > The contents below will be shared here, whenever I conclude something about it.
 
-* Data structures
-* Recursive algorithms
-* Search algorithms
-* Sorting algorithms
-* Programming techniques
+* [Data structures
+](https://en.m.wikipedia.org/wiki/Data_structure#:~:text=In%20computer%20science%2C%20a%20data,be%20applied%20to%20the%20data.)
+* [Recursive algorithms](https://en.m.wikipedia.org/wiki/Recursion_(computer_science))
+* [Search algorithms](https://en.m.wikipedia.org/wiki/Search_algorithm)
+* [Sorting algorithms](https://en.m.wikipedia.org/wiki/Sorting_algorithm)
+* [Programming techniques](https://en.m.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Programming_Concepts/Programming_paradigms#:~:text=Structured%20programming%20techniques%20involve%20giving,%2C%20loop%2C%20do%2C%20until.)
 * Miscellaneous algorithms
 
 ## Summary of contents
@@ -29,19 +30,13 @@ As I have studied several academic contents in programming, and in these studies
 
 __Example__
 
-``
-/data-structures
-  -> content
-    -> stack
-  -> exercises 
-    -> stack 
-``
+![Example of directory](https://tlgur.com/d/g50EAEPG)
 
 ## Languages used
 
-* C++
-* JavaScript
-* Python
+* [C++](https://en.m.wikipedia.org/wiki/C%2B%2B)
+* [JavaScript](https://www.w3schools.com/whatis/whatis_js.asp)
+* [Python](https://www.python.org/doc/essays/blurb/)
 
 <a id="license"></a>
 ## 🤝 License
