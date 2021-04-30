@@ -17,12 +17,13 @@ As I have studied several academic contents in programming, and in these studies
 * [Sorting algorithms](https://en.m.wikipedia.org/wiki/Sorting_algorithm)
 * [Programming techniques](https://en.m.wikibooks.org/wiki/A-level_Computing_2009/AQA/Problem_Solving,_Programming,_Operating_Systems,_Databases_and_Networking/Programming_Concepts/Programming_paradigms#:~:text=Structured%20programming%20techniques%20involve%20giving,%2C%20loop%2C%20do%2C%20until.)
 * Miscellaneous algorithms
+* Problem solving
 
 ## Summary of contents
 
 > You can access the contents organized in summary format by clicking on the link below, there you can access the folder of the content you want.
 
-[Summary](https://github.com/DKSecurity99/academic-programming/blob/main/.github/CONTENT.md)
+[Summary](https://github.com/edmilson-dk/academic-programming/blob/main/.github/CONTENT.md)
 
 ## Exercises and implementations
 
@@ -34,6 +35,7 @@ __Example__
 
 ## Languages used
 
+* [C](https://en.wikipedia.org/wiki/C_(programming_language))
 * [C++](https://en.m.wikipedia.org/wiki/C%2B%2B)
 * [JavaScript](https://www.w3schools.com/whatis/whatis_js.asp)
 * [Python](https://www.python.org/doc/essays/blurb/)
@@ -41,6 +43,6 @@ __Example__
 <a id="license"></a>
 ## 🤝 License
 
-[MIT](https://github.com/DKSecurity99/academic-programming/blob/main/LICENSE) Project License
+[MIT](https://github.com/edmilson-dk/academic-programming/blob/main/LICENSE) Project License
 
 Creator with 💙 by [Edmilson Jesus](https://www.linkedin.com/in/edmilson-jesus-4128711b5)
