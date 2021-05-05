@@ -21,9 +21,9 @@ As I have studied several academic contents in programming, and in these studies
 
 ## Summary of contents
 
-> You can access the contents organized in summary format by clicking on the link below, there you can access the folder of the content you want.
+> Below is the summary of available content.
 
-[Summary](https://github.com/edmilson-dk/academic-programming/blob/main/.github/CONTENT.md)
+* [Analysis and complexity of algorithms](https://github.com/edmilson-dk/academic-programming/blob/main/analysis-and-complexity-of-algorithms)
 
 ## Exercises and implementations
 
@@ -31,7 +31,7 @@ As I have studied several academic contents in programming, and in these studies
 
 __Example__
 
-![Example of directory](https://tlgur.com/d/g50EAEPG)
+![Example of directory](https://tlgur.com/d/GOODnpKG)
 
 ## Languages used
 
