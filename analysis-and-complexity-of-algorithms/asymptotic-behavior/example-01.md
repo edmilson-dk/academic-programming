@@ -22,7 +22,3 @@ Neste exemplo devemos levar em consideração n^3 mesmo que 1999n seja um valor 
 que basta a entrada N ser suficientemente grande.
 
 > f(n) = n^3
-
-## Summary 
-
-[Example 1](https://github.com/edmilson-dk/academic-programming/blob/main/analysis-and-complexity-of-algorithms/asymptotic-behavior/example-01.md)
