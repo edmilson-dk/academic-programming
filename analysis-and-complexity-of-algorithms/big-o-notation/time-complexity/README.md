@@ -6,4 +6,6 @@ By: [Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 
 ## Summary 
 
+* [Time constant](https://github.com/edmilson-dk/academic-programming/blob/main/analysis-and-complexity-of-algorithms/big-o-notation/time-complexity/constant)
 * [Time linear](https://github.com/edmilson-dk/academic-programming/blob/main/analysis-and-complexity-of-algorithms/big-o-notation/time-complexity/linear)
+* [Time quadratic](https://github.com/edmilson-dk/academic-programming/blob/main/analysis-and-complexity-of-algorithms/big-o-notation/time-complexity/quadratic)
