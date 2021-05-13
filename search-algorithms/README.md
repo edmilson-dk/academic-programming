@@ -16,7 +16,7 @@ Based on the type of search operation, these algorithms are generally classified
 
 * [Sequential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search)
   * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search.cpp)
-    * [Imrpoved linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/improved-linear-search.cpp)
+    * [Improved linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/improved-linear-search.cpp)
 
 ## References
 
