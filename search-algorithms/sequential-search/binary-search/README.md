@@ -10,3 +10,7 @@ __Best case of time complexity__: O(1)
 * [Sequential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search)
   * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/binary-search.py)
   * [Recurisve Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/recursive-binary-search.py)
+
+## Important points: 
+ 
+* Works only sorted arrays.
