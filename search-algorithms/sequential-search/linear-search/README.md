@@ -8,5 +8,5 @@ __Best case of time complexity__: O(1)
 ## Summary
 
 * [Sequential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search)
-  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/linear-search.cpp)
-  * [Improved linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/improved-linear-search.cpp)
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/)
+  * [Improved linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/)
