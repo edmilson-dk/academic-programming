@@ -15,9 +15,22 @@ Based on the type of search operation, these algorithms are generally classified
 ## Summary
 
 * [Sequential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search)
-  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/)
-    * [Improved linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/)
+  
+  __C++ implementations__
 
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/c++)
+  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/c++)
+  
+  __Javascript implementations__
+
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/javascript)
+  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/javascript)
+  
+  __Python implementations__
+
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/python)
+  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/python)
+    
 ## References
 
 * [Searching algorithms - GeeksOfGeeks](https://www.geeksforgeeks.org/searching-algorithms/)
