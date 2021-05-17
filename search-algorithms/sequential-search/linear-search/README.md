@@ -8,5 +8,18 @@ __Best case of time complexity__: O(1)
 ## Summary
 
 * [Sequential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search)
-  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/)
-  * [Improved linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/)
+  
+  __C++ implementations__
+
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/c++/linear-search.cpp)
+    * [Improved linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/c++/improved-linear-search.cpp)
+  
+  __Javascript implementations__
+
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/javascript/linear-search.js)
+    * [Improved linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/javascript/improved-linear-search.js)
+  
+  __Python implementations__
+
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/python/linear-search.py)
+    * [Improved linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/python/improved-linear-search.py)
