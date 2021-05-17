@@ -20,6 +20,7 @@ Based on the type of search operation, these algorithms are generally classified
 
   * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/c++)
   * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/c++)
+  * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/jump-search/c++)
   
   __Javascript implementations__
 

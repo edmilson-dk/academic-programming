@@ -10,7 +10,18 @@ __Best case of time complexity__: O (√n)
 ## Summary
 
 * [Sequential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search)
-  * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/jump-search/jump-search.cpp)
+  
+  __C++ implementations__
+
+  * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/jump-search/c++/jump-search.cpp)
+
+  __Javascript implementations__
+
+  * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/jump-search/javascript/jump-search.js)
+
+  __Python implementations__
+
+  * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/jump-search/python/jump-search.py)
 
 ## Important points: 
  
