@@ -15,6 +15,9 @@ int jumpSearch(int vector[], int size, int wanted) {
   int step = sqrt(size);
   int prev = 0;
 
+  // resolved bug in search item in last vector position
+  if (vector[size-1] == wanted) return size-1;
+
   while (vector[min(step, size)-1] < wanted) {
     prev = step;
     step += sqrt(size);
@@ -35,7 +38,7 @@ int jumpSearch(int vector[], int size, int wanted) {
 
 int main() {
   int myVector[5] = { 10, 20, 40, 50, 30 };
-  int result = jumpSearch(myVector, 5, 20);
+  int result = jumpSearch(myVector, 5, 30);
 
   (result == -1) 
     ? printf("Elemento não encontrado no vetor\n")
