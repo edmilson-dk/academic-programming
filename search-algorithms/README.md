@@ -14,23 +14,21 @@ Based on the type of search operation, these algorithms are generally classified
 
 ## Summary
 
-* [Sequential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search)
-  
   __C++ implementations__
 
-  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/c++)
-  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/c++)
-  * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/jump-search/c++)
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/linear-search/c++)
+  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/c++)
+  * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/jump-search/c++)
   
   __Javascript implementations__
 
-  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/javascript)
-  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/javascript)
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/linear-search/javascript)
+  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/javascript)
   
   __Python implementations__
 
-  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/linear-search/python)
-  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/python)
+  * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/linear-search/python)
+  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/python)
     
 ## References
 
