@@ -7,22 +7,20 @@ __Best case of time complexity__: O(1)
 
 ## Summary
 
-* [Sequential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search)
-
   __C++ implementations__
 
-  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/c++/binary-search.cpp)
-    * [Recursive Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/c++/recursive-binary-search.cpp)
+  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/c++/binary-search.cpp)
+    * [Recursive Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/c++/recursive-binary-search.cpp)
   
   __Javascript implementations__
 
-  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/javascript/binary-search.js)
-    * [Recursive Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/javascript/recursive-binary-search.js)
+  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/javascript/binary-search.js)
+    * [Recursive Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/javascript/recursive-binary-search.js)
   
   __Python implementations__
 
-  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/python/binary-search.py)
-    * [Recursive Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/sequential-search/binary-search/python/recursive-binary-search.py)
+  * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/python/binary-search.py)
+    * [Recursive Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/python/recursive-binary-search.py)
 
 ## Important points: 
  
