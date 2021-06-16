@@ -19,17 +19,21 @@ Based on the type of search operation, these algorithms are generally classified
   * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/linear-search/c++)
   * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/c++)
   * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/jump-search/c++)
+  * [Exponential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/exponential-search/c++)
   
   __Javascript implementations__
 
   * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/linear-search/javascript)
   * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/javascript)
+  * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/jump-search/js)
+  * [Exponential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/exponential-search/js)
   
   __Python implementations__
 
   * [Linear search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/linear-search/python)
   * [Binary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/binary-search/python)
-    
+  * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/jump-search/python)
+  
 ## References
 
 * [Searching algorithms - GeeksOfGeeks](https://www.geeksforgeeks.org/searching-algorithms/)
