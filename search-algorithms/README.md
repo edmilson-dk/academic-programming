@@ -29,6 +29,7 @@ Based on the type of search operation, these algorithms are generally classified
   * [Jump search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/jump-search/js)
   * [Exponential search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/exponential-search/js)
   * [Interpolation search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/interpolation-search/js)
+  * [Ternary search](https://github.com/edmilson-dk/academic-programming/blob/main/search-algorithms/ternary-search/js)
   
   __Python implementations__
 
@@ -41,3 +42,11 @@ Based on the type of search operation, these algorithms are generally classified
 ## References
 
 * [Searching algorithms - GeeksOfGeeks](https://www.geeksforgeeks.org/searching-algorithms/)
+* [Ternary search](https://www.geeksforgeeks.org/ternary-search/)
+
+<a id="license"></a>
+## 🤝 License
+
+[MIT](https://github.com/edmilson-dk/academic-programming/blob/main/LICENSE) Project License
+
+Creator with 💙 by [Edmilson Jesus](https://www.linkedin.com/in/edmilson-jesus-4128711b5)
